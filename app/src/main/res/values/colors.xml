@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#319FF7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="org">#FF5722</color>
+    <color name="env">#14AFF7</color>
+    <color name="yel">#E3EB97</color>
+    <color name="red">#FC0623</color>
+    <color name="jeun">#CCD319</color>
+    <color name="green">#0DDD17</color>
+
+
+
+
+
+</resources>

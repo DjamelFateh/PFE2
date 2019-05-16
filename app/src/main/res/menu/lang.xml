@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="العربية"
+        android:id="@+id/Ar"
+        android:icon="@drawable/ic_brightness_3_black_24dp"/>
+    <item
+        android:title="Francais"
+        android:id="@+id/Fr"
+        android:icon="@drawable/ic_library_books_black_24dp"/>
+</menu>
